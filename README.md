@@ -4,9 +4,12 @@ I craft, code and build open source software that is used by thousands of develo
 
 Most of my open source software is written in Javascript, and is solving difficult problems for thousands of devs all over the world each day.
 
-Open source libraries:
+Open source docs:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
+
+Open source libraries:
+
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
 
