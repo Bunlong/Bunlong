@@ -1,4 +1,4 @@
-Hello there,
+Hello there!
 
 I craft, code and build open source software that is used by thousands of developers, startups companies, and hopefully you and/or your company too.
 
