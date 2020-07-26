@@ -12,7 +12,7 @@ Open source libraries:
 
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
 
-<strong>I'm here to support and maintain daily.</strong>
+<strong>I'm here to support you.</strong>
 
 <!--
 **Bunlong/Bunlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
