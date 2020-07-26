@@ -1,16 +1,18 @@
 Hello there,
 
-I craft, code and build open source libraries that is used by thousands of developers, startups companies, and hopefully you and/or your company too.
+I craft, code and build open source software that is used by thousands of developers, startups companies, and hopefully you and/or your company too.
 
 Most of my open source software is written in Javascript, and is solving difficult problems for thousands of devs all over the world each day.
 
-Open source software:
+Open source libraries:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
 
-If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks! <strong>Daily support and maintain</strong>
+If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
+
+<strong>I'm here to support and maintain daily.</strong>
 
 <!--
 **Bunlong/Bunlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
