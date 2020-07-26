@@ -12,6 +12,7 @@ Open source libraries:
 
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
+* [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
 
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
 
