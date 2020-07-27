@@ -2,17 +2,25 @@ Hello there!
 
 I craft, code and build open source software that is used by thousands of developers, startups companies, and hopefully you and/or your company too.
 
-Most of my open source software is written in Javascript, and is solving difficult problems for thousands of devs all over the world each day.
+Most of my open source software is written in JavaScript, and is solving difficult problems for thousands of devs all over the world each day.
 
-Open source docs:
+React Patterns docs:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
 
-Open source libraries:
+JavaScript libraries:
 
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
+
+CSS libraries:
+
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
+
+Ruby on Rail libraries:
+
+* [rails-social-share-button](https://github.com/Bunlong/rails-social-share-button) – One of the best rails helper gem to add social share feature in your Rails app.
+* [rails-livestamp](https://github.com/Bunlong/rails-livestamp) – The simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
 
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
 
