@@ -19,8 +19,8 @@ CSS libraries:
 
 Ruby on Rail libraries:
 
-* [rails-social-share-button](https://github.com/Bunlong/rails-social-share-button) – One of the best rails helper gem to add social share feature in your Rails app.
 * [rails-livestamp](https://github.com/Bunlong/rails-livestamp) – The simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
+* [rails-social-share-button](https://github.com/Bunlong/rails-social-share-button) – One of the best rails helper gem to add social share feature in your Rails app.
 
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
 
