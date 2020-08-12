@@ -22,7 +22,7 @@ CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
 
-Ruby on Rail libraries:
+Ruby Gems for Rails:
 
 * [rails-livestamp](https://github.com/Bunlong/rails-livestamp) – The simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
 * [rails-social-share-button](https://github.com/Bunlong/rails-social-share-button) – One of the best rails helper gem to add social share feature in your Rails app.
