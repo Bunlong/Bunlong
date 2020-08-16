@@ -17,7 +17,7 @@ JavaScript libraries:
 * [react-barcodes](https://github.com/Bunlong/react-barcodes) – React hooks for generating barcodes.
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
 * [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
-* [next-share](https://github.com/Bunlong/next-share) – The social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.
+* [next-share](https://github.com/Bunlong/next-share) – The social share buttons plugin for Next.js, Gatsby.js, Create React App as well as React apps.
 
 CSS libraries:
 
