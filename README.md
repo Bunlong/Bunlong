@@ -18,6 +18,7 @@ JavaScript libraries:
 * [react-barcodes](https://github.com/Bunlong/react-barcodes) – React hooks for generating barcodes.
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
 * [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
+* [react-fullscreen-html](https://github.com/bunlong/react-fullscreen-html) – The React component allows its children to enter the browser's fullscreen viewing mode using the Fullscreen HTML5.
 
 CSS libraries:
 
