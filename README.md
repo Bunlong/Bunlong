@@ -14,11 +14,11 @@ JavaScript libraries:
 
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
 * [next-share](https://github.com/Bunlong/next-share) – The social share buttons plugin for Next.js, Gatsby.js, Create React App as well as React apps.
+* [react-fullscreen-html](https://github.com/bunlong/react-fullscreen-html) – The React component allows its children to enter the browser's fullscreen viewing mode using the Fullscreen HTML5.
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
 * [react-barcodes](https://github.com/Bunlong/react-barcodes) – React hooks for generating barcodes.
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
 * [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
-* [react-fullscreen-html](https://github.com/bunlong/react-fullscreen-html) – The React component allows its children to enter the browser's fullscreen viewing mode using the Fullscreen HTML5.
 
 CSS libraries:
 
