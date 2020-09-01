@@ -3,7 +3,8 @@ Hello there!
 
 I craft, code and build open source software that is used by thousands of developers, startups companies, and hopefully you and/or your company too.
 
-Most of my open source software is written in JavaScript, and is solving difficult problems for thousands of devs all over the world each day.
+Most of my open source software is written in Javascript and focused on React, Data Visualization, and Enterprise Application Architecture.
+
 -->
 
 React Patterns docs:
