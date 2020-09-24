@@ -28,6 +28,7 @@ CSS libraries:
 Deno modules:
 
 * [crypt](https://github.com/Bunlong/crypt) – The standard Deno module that it is used to compute the hash of passwords.
+* [numeral](https://github.com/JSBestPractices/numeral) – The standard Deno module for formatting and manipulating numbers.
 
 Ruby Gems for Rails:
 
