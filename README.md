@@ -36,6 +36,7 @@ Deno modules:
 
 * [memoize](https://deno.land/x/memoize)
 * [spinner](https://deno.land/x/spinner)
+* [faker](https://deno.land/x/faker)
 * [phone](https://deno.land/x/phone)
 * [pdf](https://deno.land/x/pdf)
 * [fetch](https://deno.land/x/fetch)
