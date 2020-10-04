@@ -50,6 +50,13 @@ Deno modules:
 * [pluralize](https://deno.land/x/pluralize)
 * [code](https://deno.land/x/code)
 * [mailer](https://deno.land/x/mailer)
+* [barcode](https://deno.land/x/barcode)
+
+* [csv_std](https://deno.land/x/csv_std)
+* [csv_parse](https://deno.land/x/csv_parse)
+* [csv_generate](https://deno.land/x/csv_generate)
+* [csv_stringify](https://deno.land/x/csv_stringify)
+* [csv_stream_transform](https://deno.land/x/csv_stream_transform)
 
 -->
 
