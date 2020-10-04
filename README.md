@@ -31,6 +31,28 @@ Deno modules:
 * [numeral](https://github.com/JSBestPractices/numeral) – The standard Deno module for formatting and manipulating numbers.
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
 
+
+<!--
+
+* [memoize](https://deno.land/x/memoize)
+* [phone](https://deno.land/x/phone)
+* [pdf](https://deno.land/x/pdf)
+* [fetch](https://deno.land/x/fetch)
+* [compression](https://deno.land/x/compression)
+* [moment](https://deno.land/x/moment)
+* [mongodb](https://deno.land/x/mongodb)
+* [csv_parser](https://deno.land/x/csv_parser)
+* [progress_bar](https://deno.land/x/progress_bar)
+* [chalk](https://deno.land/x/chalk)
+* [i18n](https://deno.land/x/i18n)
+* [dmx](https://deno.land/x/dmx)
+* [isdot](https://deno.land/x/isdot)
+* [pluralize](https://deno.land/x/pluralize)
+* [code](https://deno.land/x/code)
+* [mailer](https://deno.land/x/mailer)
+
+-->
+
 Ruby Gems for Rails:
 
 * [rails-livestamp](https://github.com/Bunlong/rails-livestamp) – The simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
