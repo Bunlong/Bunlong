@@ -19,7 +19,7 @@ JavaScript libraries:
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
 * [react-barcodes](https://github.com/Bunlong/react-barcodes) – React hooks for generating barcodes.
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
-* [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.+
+* [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
 
 CSS libraries:
 
