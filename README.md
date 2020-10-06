@@ -31,7 +31,7 @@ Deno modules:
 * [numeral](https://github.com/JSBestPractices/numeral) – The standard Deno module for formatting and manipulating numbers.
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
 * [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels.
-* [spinner](https://github.com/deno-spinner/spinner) – The elegant terminal spinner.
+* [spinner](https://github.com/deno-spinner/spinner) – The elegant terminal spinner for Deno.
 
 <!--
 
