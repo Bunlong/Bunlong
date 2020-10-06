@@ -35,6 +35,7 @@ Deno modules:
 <!--
 
 * [memoize](https://deno.land/x/memoize)
+* [delay](https://deno.land/x/delay)
 * [money](https://deno.land/x/money)
 * [is_online](https://deno.land/x/is_online)
 * [log_symbols](https://deno.land/x/log_symbols)
