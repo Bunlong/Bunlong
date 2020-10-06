@@ -30,7 +30,7 @@ Deno modules:
 * [crypt](https://github.com/Bunlong/crypt) – The standard Deno module that it is used to compute the hash of passwords.
 * [numeral](https://github.com/JSBestPractices/numeral) – The standard Deno module for formatting and manipulating numbers.
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
-* [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels.
+* [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels for Deno.
 * [spinner](https://github.com/deno-spinner/spinner) – The elegant terminal spinner for Deno.
 
 <!--
