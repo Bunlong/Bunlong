@@ -32,7 +32,7 @@ Deno modules:
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
 * [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels for Deno.
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
-* [public_ip](https://deno.land/x/public_ip)
+* [public_ip](https://github.com/deno-public-ip/public-ip) – Get your public IP address.
 
 <!--
 
