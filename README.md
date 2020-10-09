@@ -32,6 +32,7 @@ Deno modules:
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
 * [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels for Deno.
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
+* [public_ip](https://deno.land/x/public_ip)
 
 <!--
 
@@ -39,7 +40,6 @@ Deno modules:
 * [memoize](https://deno.land/x/memoize)
 * [money](https://deno.land/x/money)
 * [is_online](https://deno.land/x/is_online)
-* [public_ip](https://deno.land/x/public_ip)
 * [faker](https://deno.land/x/faker)
 * [benchmark](https://deno.land/x/benchmark)
 * [phone](https://deno.land/x/phone)
