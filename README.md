@@ -40,6 +40,8 @@ Deno modules:
 * [memoize](https://deno.land/x/memoize)
 * [money](https://deno.land/x/money)
 * [is_online](https://deno.land/x/is_online)
+* [is_up](https://deno.land/x/is_up)
+* [is_address](https://deno.land/x/is_address)
 * [faker](https://deno.land/x/faker)
 * [benchmark](https://deno.land/x/benchmark)
 * [phone](https://deno.land/x/phone)
