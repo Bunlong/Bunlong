@@ -25,6 +25,8 @@ CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
 
+<!--
+
 Deno modules:
 
 * [crypt](https://github.com/Bunlong/crypt) – The standard Deno module for hashing passwords using BCrypt or SCrypt.
@@ -34,6 +36,8 @@ Deno modules:
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
 * [public_ip](https://github.com/deno-public-ip/public-ip) – Get your public IP address.
 * [is_online](https://github.com/denoorg/is-online) - Check if the internet connection is up in Deno.
+
+-->
 
 <!--
 
