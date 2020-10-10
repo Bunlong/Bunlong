@@ -33,13 +33,13 @@ Deno modules:
 * [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels for Deno.
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
 * [public_ip](https://github.com/deno-public-ip/public-ip) – Get your public IP address.
+* [is_online](https://github.com/denoorg/is-online) - Check if the internet connection is up in Deno.
 
 <!--
 
 * [spinner](https://github.com/deno-spinner/spinner) – The elegant terminal spinner for Deno.
 * [memoize](https://deno.land/x/memoize)
 * [money](https://deno.land/x/money)
-* [is_online](https://deno.land/x/is_online)
 * [is_up](https://deno.land/x/is_up)
 * [is_address](https://deno.land/x/is_address)
 * [faker](https://deno.land/x/faker)
