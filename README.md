@@ -12,6 +12,10 @@ React Patterns docs:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
 
+Best Deno modules and resources:
+
+* [awesome-deno](https://github.com/denocommunity/awesome-deno) – Curating the best Deno modules and resources.
+
 JavaScript libraries:
 
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
@@ -25,10 +29,6 @@ JavaScript libraries:
 CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
-
-Best Deno modules and resources:
-
-* [Awesome Deno](https://github.com/denocommunity/awesome-deno) – Curating the best Deno modules and resources.
 
 <!--
 
