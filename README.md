@@ -1,4 +1,5 @@
 <!--
+
 Hello there!
 
 I craft, code and build open source software that is used by thousands of developers, startups companies, and hopefully you and/or your company too.
@@ -24,6 +25,10 @@ JavaScript libraries:
 CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
+
+Best Deno modules and resources:
+
+* [Awesome Deno](https://github.com/denocommunity/awesome-deno) – Curating the best Deno modules and resources.
 
 <!--
 
