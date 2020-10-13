@@ -41,6 +41,7 @@ Deno modules:
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
 * [is_online](https://github.com/denoorg/is-online) – Check if the internet connection is up in Deno.
 * [is_up](https://github.com/denoorg/is-up) – Check whether a website is up or down in Deno.
+* [public_ip](https://github.com/deno-public-ip/public-ip) – Get your public IP address.
 
 -->
 
@@ -68,7 +69,7 @@ Deno modules:
 * [code](https://deno.land/x/code)
 * [mailer](https://deno.land/x/mailer)
 * [barcode](https://deno.land/x/barcode)
-* [public_ip](https://github.com/deno-public-ip/public-ip) – Get your public IP address.
+
 * [csv_std](https://deno.land/x/csv_std)
 * [csv_parse](https://deno.land/x/csv_parse)
 * [csv_generate](https://deno.land/x/csv_generate)
