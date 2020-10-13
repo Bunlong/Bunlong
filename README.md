@@ -12,7 +12,7 @@ React Patterns docs:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
 
-Best Deno modules and resources:
+Best Deno modules and resources docs:
 
 * [awesome-deno](https://github.com/denocommunity/awesome-deno) – Curating the best Deno modules and resources.
 
