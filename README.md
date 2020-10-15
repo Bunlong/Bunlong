@@ -30,13 +30,14 @@ CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
 
-<!--
-
 Deno modules:
 
 * [crypt](https://github.com/Bunlong/crypt) – The standard Deno module for hashing passwords using BCrypt or SCrypt.
 * [numeral](https://github.com/JSBestPractices/numeral) – The standard Deno module for formatting and manipulating numbers.
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
+
+<!--
+
 * [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels for Deno.
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
 * [is_online](https://github.com/denoorg/is-online) – Check if the internet connection is up in Deno.
