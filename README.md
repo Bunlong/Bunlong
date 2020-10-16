@@ -26,6 +26,16 @@ JavaScript libraries:
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
 * [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
 
+<!--
+
+[react-phone](https://github.com/Bunlong/react-phone)
+[react-data-vis](https://github.com/Bunlong/react-data-vis)
+[react-zxcvbn](https://github.com/Bunlong/react-zxcvbn)
+[react-dnd-html](https://github.com/Bunlong/react-dnd-html)
+[react-dropfiles](https://github.com/Bunlong/react-dropfiles)
+
+-->
+
 CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
