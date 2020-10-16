@@ -14,7 +14,7 @@ React Patterns docs:
 
 Best Deno modules and resources docs:
 
-* [DenoHub](https://github.com/denocommunity/awesome-deno) – Curating the best Deno modules and resources.
+* [best-deno](https://github.com/denocommunity/best-deno) – Curating the best Deno modules and resources.
 
 JavaScript libraries:
 
