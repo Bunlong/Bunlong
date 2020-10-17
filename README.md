@@ -12,10 +12,6 @@ React Patterns docs:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
 
-Best Deno modules and resources docs:
-
-* [best-deno](https://github.com/denocommunity/best-deno) – Curating the best Deno modules and resources.
-
 JavaScript libraries:
 
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
@@ -40,14 +36,13 @@ CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
 
+<!--
+
 Deno modules:
 
 * [crypt](https://github.com/Bunlong/crypt) – The standard Deno module for hashing passwords using BCrypt or SCrypt.
 * [numeral](https://github.com/JSBestPractices/numeral) – The standard Deno module for formatting and manipulating numbers.
 * [validate](https://github.com/jinglong7/validate) – The standard Deno module for validating string.
-
-<!--
-
 * [log_symbols](https://github.com/deno-log-symbols/log-symbols) - Colored symbols for various log levels for Deno.
 * [delay](https://github.com/deno-delay/delay) – The standard Deno module for delaying a specified amount of time.
 * [is_online](https://github.com/denoorg/is-online) – Check if the internet connection is up in Deno.
