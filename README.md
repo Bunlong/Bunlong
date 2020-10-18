@@ -8,6 +8,20 @@ Most of my open source software is written in Javascript and focused on React, D
 
 -->
 
+## About
+
+I work at [@algorithmshub], I use Linux/Ubuntu on my PC. I love rockets 🚀 Rocket and Space 🌌.
+
+## Skills
+
+* [x] Erlang is my primary backend language
+* [x] Golang is my goto backend language
+* [x] JavaScript ( Who can live without JavaScript? )
+* [x] React + Hook
+* [x] Python + Algorithms
+
+## Projects
+
 React Patterns docs:
 
 * [reactpatterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
