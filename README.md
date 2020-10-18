@@ -17,6 +17,7 @@ I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu 
 * Python + Algorithms for machine learning and data analysis
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
+* Java + Swift = Native Mobile App 📱
 
 ## Projects
 
