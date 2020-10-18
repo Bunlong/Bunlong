@@ -10,13 +10,13 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## About
 
-I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌.
+I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
 
 * Erlang is my primary backend language
 * Golang is my goto backend language
 * Python + Algorithms for machine learning and data analysis
 * JavaScript ( Who can live without JavaScript? )
-* React + Hook
+* React + Hook = ❤️
 
 ## Projects
 
