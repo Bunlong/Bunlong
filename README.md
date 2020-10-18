@@ -10,7 +10,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## About
 
-I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 Rocket and Space 🌌.
+I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌.
 
 ## Skills
 
