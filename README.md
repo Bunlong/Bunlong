@@ -20,6 +20,8 @@ I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu 
 * React + Hook = ❤️
 * Java + Swift = Native Mobile App 📱
 
+I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, and Enterprise Application Architecture.
+
 ## Projects
 
 React Patterns docs:
