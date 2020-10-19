@@ -95,7 +95,7 @@ Ruby Gems for Rails:
 
 I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
 
-* C / C++ / Algorithms are my strong background languages
+* C / C++ / Algorithms are my strong background programming languages
 * Erlang is my primary backend language
 * Golang is my goto backend language
 * Python + Algorithms for machine learning and data analysis
