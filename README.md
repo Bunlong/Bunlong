@@ -8,20 +8,6 @@ Most of my open source software is written in Javascript and focused on React, D
 
 -->
 
-## About
-
-I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
-
-* C / C++ / Algorithms are my strong background languages
-* Erlang is my primary backend language
-* Golang is my goto backend language
-* Python + Algorithms for machine learning and data analysis
-* JavaScript ( Who can live without JavaScript? )
-* React + Hook = ❤️
-* Java + Swift = Native Mobile App 📱
-
-I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, and Enterprise Application Architecture.
-
 ## Projects
 
 React Patterns docs:
@@ -37,6 +23,20 @@ JavaScript libraries:
 * [react-barcodes](https://github.com/Bunlong/react-barcodes) – React hooks for generating barcodes.
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
 * [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
+
+## About
+
+I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
+
+* C / C++ / Algorithms are my strong background languages
+* Erlang is my primary backend language
+* Golang is my goto backend language
+* Python + Algorithms for machine learning and data analysis
+* JavaScript ( Who can live without JavaScript? )
+* React + Hook = ❤️
+* Java + Swift = Native Mobile App 📱
+
+I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, and Enterprise Application Architecture.
 
 <!--
 
