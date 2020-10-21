@@ -17,6 +17,7 @@ React Patterns docs:
 JavaScript libraries:
 
 * [react-papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
+* [libphonenumbers](https://github.com/Bunlong/libphonenumbers) – JS port of Google's libphonenumber library for parsing, formatting, and validating international phone numbers in Node.js.
 * [next-share](https://github.com/Bunlong/next-share) – The social share buttons plugin for Next.js, Gatsby.js, Create React App as well as React apps.
 * [react-fullscreen-html](https://github.com/bunlong/react-fullscreen-html) – The React component allows its children to enter the browser's fullscreen viewing mode using the Fullscreen HTML5.
 * [react-webspeech](https://github.com/Bunlong/react-webspeech) – The official WebSpeech for React.
