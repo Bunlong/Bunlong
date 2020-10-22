@@ -8,6 +8,26 @@ Most of my open source software is written in Javascript and focused on React, D
 
 -->
 
+## About Me
+
+I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
+
+* C / C++ / Algorithms are my strong background programming languages
+* Erlang is my primary backend language
+* Golang is my goto backend language
+* Python + Algorithms for machine learning and data analysis
+* JavaScript ( Who can live without JavaScript? )
+* React + Hook = ❤️
+* Java + Swift = Native Mobile App 📱
+
+I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, and Enterprise Application Architecture.
+
+<!--
+If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
+
+<strong>I'm here to support you.</strong>
+-->
+
 ## Projects
 
 React Patterns docs:
@@ -91,26 +111,6 @@ Ruby Gems for Rails:
 
 * [rails-livestamp](https://github.com/Bunlong/rails-livestamp) – The simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
 * [rails-social-share-button](https://github.com/Bunlong/rails-social-share-button) – One of the best rails helper gem to add social share feature in your Rails app.
-
-## About
-
-I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux/Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
-
-* C / C++ / Algorithms are my strong background programming languages
-* Erlang is my primary backend language
-* Golang is my goto backend language
-* Python + Algorithms for machine learning and data analysis
-* JavaScript ( Who can live without JavaScript? )
-* React + Hook = ❤️
-* Java + Swift = Native Mobile App 📱
-
-I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, and Enterprise Application Architecture.
-
-<!--
-If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
-
-<strong>I'm here to support you.</strong>
--->
 
 <!--
 **Bunlong/Bunlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
