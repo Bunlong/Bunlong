@@ -10,7 +10,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## About Me
 
-I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux / Ubuntu on my PC. I love rockets 🚀 and spaces 🌌
+I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 
 * C / C++ / Algorithms are my strong background programming languages
 * Erlang is my primary backend language
