@@ -28,6 +28,7 @@ If you have any further questions, feel free to send me a tweet or DM [@bunlongv
 <strong>I'm here to support you.</strong>
 -->
 
+<!-- 
 ## Projects
 
 React Patterns docs:
@@ -45,6 +46,8 @@ JavaScript libraries:
 * [react-qrcodes](https://github.com/Bunlong/react-qrcodes) – React hooks for generating qrcodes.
 * [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit) – Use your own custom keyboard instead of the system keyboard.
 
+-->
+
 <!--
 
 [react-phone](https://github.com/Bunlong/react-phone)
@@ -55,9 +58,13 @@ JavaScript libraries:
 
 -->
 
+<!--
+
 CSS libraries:
 
 * [anime.css](https://github.com/animecss/anime.css) – The lightweight cross-browser CSS animations library.
+
+-->
 
 <!--
 
@@ -107,10 +114,14 @@ Deno modules:
 
 -->
 
+<!--
+
 Ruby Gems for Rails:
 
 * [rails-livestamp](https://github.com/Bunlong/rails-livestamp) – The simple jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements.
 * [rails-social-share-button](https://github.com/Bunlong/rails-social-share-button) – One of the best rails helper gem to add social share feature in your Rails app.
+
+-->
 
 <!--
 **Bunlong/Bunlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
