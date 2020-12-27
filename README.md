@@ -15,7 +15,7 @@ I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux on my P
 * C / C++ / Algorithms are my strong background programming languages
 * Erlang is my primary backend language
 * Golang is my goto backend language
-* Python + Algorithms for ML, DL and DS
+* Python + Algorithms for DS, ML, DL and CV
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
 * Java + Swift = Native Mobile App 📱
