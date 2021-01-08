@@ -22,6 +22,8 @@ I work at [AlgorithmsHub](https://github.com/algorithmshub), I use Linux on my P
 
 I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
 
+**Be a CHALLENGER**.
+
 <!--
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
 
