@@ -19,7 +19,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
 * Java + Swift = Native Mobile App 📱
-* Ruby + Rails = Ecosystem
+* Ruby + Rails = Ecosystem 💎
 
 I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
 
