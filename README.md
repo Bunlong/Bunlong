@@ -15,6 +15,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * C / C++ / Algorithms are my strong background programming languages
 * Erlang is my primary backend language
 * Golang is my goto backend language
+* Ruby for ecosystem
 * Python + Algorithms for DS, ML, DL and CV
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
