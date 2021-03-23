@@ -20,6 +20,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * React + Hook = ❤️
 * Java + Swift = Native Mobile App 📱
 * Ruby + Rails = Ecosystem 💎
+* Svelte = ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
 
 I craft, code and build open source software and most of my open source software is written in JavaScript and focused on React, Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
 
