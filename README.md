@@ -17,9 +17,9 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * Golang is my goto backend language
 * Python + Algorithms for DS, ML, DL and CV
 * Ruby + Rails = Ecosystem 💎
+* Java + Swift = Native Mobile App 📱
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
-* Java + Swift = Native Mobile App 📱
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 * Svelte = ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
 
