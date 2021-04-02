@@ -19,6 +19,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
 * Java + Swift = Native Mobile App 📱
+* React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 * Ruby + Rails = Ecosystem 💎
 * Svelte = ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
 
