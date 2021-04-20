@@ -16,7 +16,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * Erlang is my primary backend language
 * Golang is my goto backend language
 * Python + Algorithms for DS, ML, DL and CV
-* Ruby + Rails = Ecosystem 💎
+* Ruby + Rails = Ruby Ecosystem 💎
 * Java + Swift = Native Mobile App 📱
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
