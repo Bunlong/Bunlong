@@ -21,7 +21,7 @@ Most of my open source software is written in Javascript and focused on React, D
 * [React Native Custom Keyboard Kit](https://github.com/Bunlong/react-native-custom-keyboard-kit)
 
 
-## I'm Bunlong from Cambodia
+## I'm Bunlong 🇰🇭
 
 I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 
