@@ -10,13 +10,14 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Supercharging the React Ecosystem with Projects and Products
 
-* React Papaparse
-* React Screen Capture
-* React Star
-* React Native CSV
-* React Native Star
-* Next Share
-* React Patterns
+* [React Papaparse](https://github.com/Bunlong/react-papaparse)
+* [React Screen Capture](https://github.com/Bunlong/react-screen-capture)
+* [React Star](https://github.com/Bunlong/react-star)
+* [React Native CSV](https://github.com/Bunlong/react-native-csv)
+* [React Native Star](https://github.com/Bunlong/react-native-star)
+* [React Webspeech](https://github.com/Bunlong/react-webspeech)
+* [React Patterns](https://github.com/reactpatterns/reactpatterns)
+* [Next Share](https://github.com/Bunlong/next-share)
 
 ## About Me
 
