@@ -8,6 +8,12 @@ Most of my open source software is written in Javascript and focused on React, D
 
 -->
 
+## Supercharging the React Ecosystem with Projects and Products
+
+* React Papaparse
+* React Native CSV
+* React Patterns
+
 ## About Me
 
 I use Linux on my PC. I love rockets 🚀 and spaces 🌌
