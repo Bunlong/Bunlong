@@ -17,7 +17,7 @@ Most of my open source software is written in Javascript and focused on React, D
 * [React Native Star](https://github.com/Bunlong/react-native-star)
 * [React Webspeech](https://github.com/Bunlong/react-webspeech)
 * [React Patterns](https://github.com/reactpatterns/reactpatterns)
-* [react-native-custom-keyboard-kit](https://github.com/Bunlong/react-native-custom-keyboard-kit)
+* [React Native Custom Keyboard Kit](https://github.com/Bunlong/react-native-custom-keyboard-kit)
 * [Next Share](https://github.com/Bunlong/next-share)
 
 ## About Me
