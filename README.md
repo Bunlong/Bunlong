@@ -37,11 +37,11 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * Golang is my goto backend language
 * Python + Algorithms for DS, ML, DL and CV
 * Ruby + Rails = Ruby Ecosystem 💎
-* Java + Swift = Native Mobile App 📱
 * JavaScript ( Who can live without JavaScript? )
 * React + Hook = ❤️
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 * Svelte = ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
+* Java + Swift = Native Mobile App 📱
 
 I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, <!--Svelte, -->Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
 
