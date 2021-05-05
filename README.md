@@ -25,6 +25,7 @@ Most of my open source software is written in Javascript and focused on React, D
 ## Supercharging the Svelte Ecosystem
 
 * [Create Svelte Library](https://github.com/Bunlong/create-svelte-library)
+* [Svelte CSV](https://github.com/Bunlong/svelte-csv)
 * [Svelte Barcode](https://github.com/Bunlong/svelte-barcode)
 * [Svelte Clock](https://github.com/Bunlong/svelte-clock)
 
