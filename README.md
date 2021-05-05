@@ -43,7 +43,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 * Svelte = ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
 * Java + Swift = Native Mobile App 📱
 
-I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, <!--Svelte, -->Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
+I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte, Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
 
 <!--
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
