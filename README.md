@@ -8,6 +8,10 @@ Most of my open source software is written in Javascript and focused on React, D
 
 -->
 
+## Features
+
+🌐 [AlgorithmsHub](https://algorithmshub.github.io) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
+
 ## Supercharging the React Ecosystem
 
 <!-- * [React Star](https://github.com/Bunlong/react-star) -->
@@ -45,8 +49,6 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte, Data Visualization, Machine Learning, Computer Vision and Enterprise Application Architecture.
 
 **A day without a commit to an open-source is a day wasted.**
-
-🌐 [AlgorithmsHub](https://algorithmshub.github.io) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
 
 <!--
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
