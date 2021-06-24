@@ -10,7 +10,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Features
 
-🌐 [AlgorithmsHub](https://algorithmshub.github.io) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
+🌐 [AlgorithmsHub](https://github.com/algorithmshub) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
 
 ## Supercharging the React Ecosystem
 
