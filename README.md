@@ -10,9 +10,11 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Features
 
-🌐 [Numer.js](https://github.com/Bunlong/numer.js)
-
 🌐 [AlgorithmsHub](https://github.com/algorithmshub) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
+
+## Supercharging the JS Ecosystem
+
+* [Numer.js](https://github.com/Bunlong/numer.js)
 
 ## Supercharging the React Ecosystem
 
