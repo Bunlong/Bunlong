@@ -14,7 +14,8 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Supercharging the JS Ecosystem
 
-* [Numer.js](https://github.com/Bunlong/numer.js)
+* [numer.js](https://github.com/Bunlong/numer.js)
+* [strdash.js](https://github.com/Bunlong/strdash.js)
 
 ## Supercharging the React Ecosystem
 
