@@ -55,7 +55,7 @@ I use Linux on my PC. I love rockets 🚀 and spaces 🌌
 
 I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte, Data Visualization, Computer Vision and Enterprise Application Architecture.
 
-📫 If you want a heads up on next open-source software, make sure to follow me on twitter [@bunlongvan](https://twitter.com/BunlongVan).
+📫 If you want a heads up on the next open-source software, make sure to follow me on twitter [@bunlongvan](https://twitter.com/BunlongVan).
 
 **💬 A day without a commit to an open-source is a day wasted.**
 
