@@ -61,10 +61,10 @@ I craft, code and build open-source software and most of my open-source software
 
 Languages I know 📙
 
-  * Khmer language: my mother tongue
-  * English language: read, write, speak, listen
-  * Vietnamese language: speak, listen
-  * Thai language: learning ( read, write, speak, listen)
+  * Khmer language, my mother tongue
+  * English language, I can read, write, speak and listen
+  * Vietnamese language, I can speak and listen
+  * Thai language: I'm learning ( read, write, speak, listen )
 
 <!--
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
