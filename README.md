@@ -59,6 +59,13 @@ I craft, code and build open-source software and most of my open-source software
 
 **💬 A day without a commit to an open-source is a day wasted.**
 
+📙 Languages
+
+  * Khmer language: my mother tongue
+  * English language  read, write, speak, listen
+  * Vietnamese language: speak, listen
+  * Thai language: learning ( read, write, speak, listen)
+
 <!--
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
 
