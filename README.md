@@ -44,7 +44,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Hey, I'm Bunlong
 
-I use Linux on my PC. I love 🚀 rockets 🌌 spaces ▶️ [MY VLOG CHANNEL](https://www.youtube.com/channel/UCWj1II16DwlW8feimbyZSrg).
+I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
 * C / C++ / Rust / Java / Algorithms are my strong background 💪
 * Erlang is my primary backend language
