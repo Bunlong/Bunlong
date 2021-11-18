@@ -38,10 +38,6 @@ Most of my open source software is written in Javascript and focused on React, D
 * [Svelte Barcode](https://github.com/Bunlong/svelte-barcode)
 * [Svelte Clock](https://github.com/Bunlong/svelte-clock)
 
-## I'm Working on
-
-* [React Hook Web3](https://github.com/Bunlong/react-hook-web3)
-
 ## Hey, I'm Bunlong
 
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
