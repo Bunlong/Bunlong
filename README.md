@@ -57,7 +57,7 @@ I craft, code and build open-source software and most of my open-source software
 
 **💬 A day without a commit to an open-source is a day wasted.**
 
-**🔗 My Channels:** [Facebook](https://www.facebook.com/codewithbunlong)
+**🔗 My Channels:** [Facebook](https://www.facebook.com/codewithbunlong) | [YouTube](https://www.youtube.com/bunlongvan)
 
 <!--
 If you have any further questions, feel free to send me a tweet or DM [@bunlongvan](https://twitter.com/bunlongvan) on Twitter. Thanks!
