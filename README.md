@@ -55,7 +55,7 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
 I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte, Data Visualization, Computer Vision and Enterprise Application Architecture.
 
-## Please Support Me
+## Support Me
 
 **If you think I'm constantly contributing to the community with cool and useful code, [please nominate me as a GitHub Star](https://stars.github.com/nominate). Thank you for your nomination, I very much appreciate it.**
 
