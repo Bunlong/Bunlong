@@ -59,7 +59,7 @@ I craft, code and build open-source software and most of my open-source software
 
 ## Support Me
 
-**If you think I'm constantly contributing to the community with useful code, don't hesitate to [nominate me as a GitHub Star](https://stars.github.com/nominate). Thank you for your nomination, I very much appreciate it.**
+**If you think I'm constantly contributing to the community with useful code, don't hesitate to [nominate me as a GitHub Star](https://stars.github.com/nominate). I very much appreciate it.**
 
 ## Sponsor Me
 
