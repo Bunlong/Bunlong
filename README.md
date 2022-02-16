@@ -61,6 +61,10 @@ I craft, code and build open-source software and most of my open-source software
 
 **If you think I'm constantly contributing to the community with cool and useful code, [please nominate me as a GitHub Star](https://stars.github.com/nominate). Thank you for your nomination, I very much appreciate it.**
 
+## Sponsor Me
+
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.paypal.com/donate/?hosted_button_id=BE2FA7HF3GJ7E)
+
 <!-- **💬 A day without a commit to an open-source is a day wasted.** -->
 
 <!--
