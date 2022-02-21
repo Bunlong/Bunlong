@@ -45,7 +45,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
-* C / C++ / Rust / Java / Algorithms are my strong background 💪
+* C / C++ / Java / Algorithms are my strong background 💪
 * Erlang is my primary backend language
 * Golang is my goto backend language
 * Python + Algorithms for DS, ML, DL and CV
