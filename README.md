@@ -12,11 +12,6 @@ Most of my open source software is written in Javascript and focused on React, D
 
 🌐 [AlgorithmsHub](https://github.com/algorithmshub) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
 
-## Supercharging the JS Ecosystem
-
-* [numer.js](https://github.com/Bunlong/numer.js)
-* [strdash.js](https://github.com/Bunlong/strdash.js)
-
 ## Supercharging the React Ecosystem
 
 <!-- * [React Star](https://github.com/Bunlong/react-star) -->
@@ -40,6 +35,11 @@ Most of my open source software is written in Javascript and focused on React, D
 * [Svelte CSV](https://github.com/Bunlong/svelte-csv)
 * [Svelte Barcode](https://github.com/Bunlong/svelte-barcode)
 * [Svelte Clock](https://github.com/Bunlong/svelte-clock)
+
+## Supercharging the JS Ecosystem
+
+* [numer.js](https://github.com/Bunlong/numer.js)
+* [strdash.js](https://github.com/Bunlong/strdash.js)
 
 ## Hey, I'm Bunlong
 
