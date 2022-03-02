@@ -56,7 +56,7 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
 
-I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte, Data Visualization and Enterprise Application Architecture.
+I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Data Visualization.
 
 ## Support Me
 
