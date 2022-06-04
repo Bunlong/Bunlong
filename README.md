@@ -18,7 +18,7 @@ Most of my open source software is written in Javascript and focused on React, D
 * [React Papaparse](https://github.com/Bunlong/react-papaparse) [![downloads](https://img.shields.io/npm/dt/react-papaparse.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/react-papaparse)
 * [Next Share](https://github.com/Bunlong/next-share)
 * [Next QRCode](https://github.com/bunlong/next-qrcode)
-* [React Barcodes](https://github.com/Bunlong/react-barcodes)
+* [Next Barcode](https://github.com/Bunlong/next-barcode)
 * [React Screen Capture](https://github.com/Bunlong/react-screen-capture)
 * [React XLS](https://github.com/Bunlong/react-xls)
 * [Next reCAPTCHA](https://github.com/Bunlong/next-recaptcha)
