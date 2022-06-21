@@ -19,8 +19,9 @@ Most of my open source software is written in Javascript and focused on React, D
 * [Next Share](https://github.com/Bunlong/next-share) [![downloads](https://img.shields.io/npm/dt/next-share.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/next-share)
 * [Next QRCode](https://github.com/bunlong/next-qrcode) [![downloads](https://img.shields.io/npm/dt/next-qrcode.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/next-qrcode)
 * [Next Barcode](https://github.com/Bunlong/next-barcode)
-* [React Screen Capture](https://github.com/Bunlong/react-screen-capture)
+* [Next Time Ago](https://github.com/Bunlong/next-time-ago)
 * [Next Faker](https://github.com/Bunlong/next-faker)
+* [React Screen Capture](https://github.com/Bunlong/react-screen-capture)
 * [React XLS](https://github.com/Bunlong/react-xls)
 * [Next reCAPTCHA](https://github.com/Bunlong/next-recaptcha)
 
