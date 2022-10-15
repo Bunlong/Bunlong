@@ -45,6 +45,10 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Hey, I'm Bunlong
 
+I am an open-source maintainer.
+
+I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Data Visualization.
+
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
 * C / C++ / Java / Algorithms are my strong background 💪
@@ -52,13 +56,12 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * Golang is my goto backend language
 * Python + Algorithms for DS, ML, DL and CV
 * Ruby + Rails = Ruby Ecosystem 💎
+* PHP + Laravel = PHP Ecosystem 👨‍💻
 * JavaScript ( Who can live without JavaScript? )
-* React + Hook = ❤️
+* React + Hook = ❤️ ⚛️
 * Svelte = ❤️ Compiler ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
-
-I am an open-source maintainer. I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Data Visualization.
 
 ## Support Me
 
