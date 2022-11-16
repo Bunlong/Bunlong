@@ -45,7 +45,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Hey, I'm Bunlong
 
-I am an open-source maintainer.
+I am an open-source maintainer. I post my code tidbits on [Instagram](https://www.instagram.com/bunlongcoder).
 
 I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Data Visualization.
 
