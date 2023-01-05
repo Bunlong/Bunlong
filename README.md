@@ -62,6 +62,7 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * React + Hook = ❤️ ⚛️
 * Svelte = ❤️ Compiler ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
+* Dart + Flutter = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
 
 ## Support Me
