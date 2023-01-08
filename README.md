@@ -69,6 +69,10 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
 **If you think I'm constantly contributing to the community with useful code, don't hesitate to [nominate me as a GitHub Star](https://stars.github.com/nominate). I very much appreciate it.**
 
+## Daily Tweet
+
+Follow [@codewithreel](https://twitter.com/codewithreel) on twitter to learn code tidbits & tips with reel.
+
 <!--
 
 ## Sponsor Me
