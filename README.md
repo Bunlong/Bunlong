@@ -65,9 +65,13 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * Dart + Flutter = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
 
+<!--
+
 ## Support Me
 
 **If you think I'm constantly contributing to the community with useful code, don't hesitate to [nominate me as a GitHub Star](https://stars.github.com/nominate). I very much appreciate it.**
+
+-->
 
 <!--
 
