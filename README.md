@@ -48,7 +48,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 I am an open-source maintainer.
 
-I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Data Visualization.
+I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Math/Algorithm.
 
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
