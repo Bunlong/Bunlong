@@ -50,7 +50,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 I am an open-source maintainer.
 
-I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React, Svelte and Math / Algorithm.
+I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React and Math / Algorithm.
 
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
@@ -61,8 +61,7 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * Ruby + Rails = Ruby Ecosystem 💎
 * PHP + Laravel = PHP Ecosystem 👨‍💻
 * JavaScript ( Who can live without JavaScript? )
-* React + Hook = ❤️ ⚛️
-* Svelte = ❤️ Compiler ❤️ Less Code ❤️ No Virtual DOM ❤️ Truly Reactive ❤️
+* React + Hook + Compiler = ❤️ ⚛️
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 * Dart + Flutter = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
