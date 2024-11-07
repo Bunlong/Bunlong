@@ -66,6 +66,8 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * Dart + Flutter = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
 
+**My daily activity on** [Code with Reel](https://www.tiktok.com/@codewithreel)
+
 <!--
 
 ## Support Me
