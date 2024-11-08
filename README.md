@@ -57,8 +57,8 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * C / C++ / Java / Algorithms are my strong background 💪
 * Java is my primary backend language
 * Java is my goto backend language
-* Java + Spring Boot = Java Ecosystem
-* Python + Algorithms for DS, ML, DL and CV
+* Java + Spring Boot = Java Ecosystem ☕
+* Python + Algorithms for DS, ML, DL and CV 🤖
 * Ruby + Rails = Ruby Ecosystem 💎
 * PHP + Laravel = PHP Ecosystem 👨‍💻
 * JavaScript ( Who can live without JavaScript? )
