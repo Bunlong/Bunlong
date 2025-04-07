@@ -67,8 +67,6 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * Java + Swift = Native Mobile App 📱
 * React Native + JavaScript + Java + Swift = Hybrid Mobile App 📱
 
-**My daily activity on** [Code with Reel](https://www.tiktok.com/@codewithreel)
-
 <!--
 
 ## Support Me
