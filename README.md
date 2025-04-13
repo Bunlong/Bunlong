@@ -50,7 +50,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 I am an Open-Source Maintainer | Full Stack Software Engineer | Backend Engineer Manager | Technical Lead | Java Engineer | Python Engineer | Blockchain Engineer | Machine Learning Engineer | AI Researcher | System Architect | Mobile Engineer Manager.
 
-I craft, code and build open-source software and most of my open-source software is written in JavaScript, Java, Python and focused on React, Math/Algorithm, Blockchain, Machine Learning and AI.
+I craft, code and build open-source software and most of my open-source software is written in JavaScript, Java, Python and focused on React, Math / Algorithm, Blockchain, Machine Learning and AI.
 
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
