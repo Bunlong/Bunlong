@@ -10,7 +10,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Features
 
-🌐 [AlgorithmsHub](https://github.com/algorithmshub) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog) | 🌐 [Algorithms for Kids](https://github.com/algorithmsforkids) | 🌐 [Design Patterns for Kids](https://designpatternsforkids.github.io)
+🌐 [Algorithms for Kids](https://github.com/algorithmsforkids) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog) | 🌐 [The Open Source AI](https://github.com/theopensourceai) | 🌐 [Design Patterns for Kids](https://designpatternsforkids.github.io)
 
 ## Supercharging the React Ecosystem
 
@@ -48,9 +48,9 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Hey, I'm Bunlong
 
-I am an open-source maintainer.
+I am an Open-Source Maintainer | Full Stack Software Engineer | Backend Engineer Manager | Technical Lead | Java Engineer | Python Engineer | Blockchain Engineer | Machine Learning Engineer | AI Researcher | System Architect | Mobile Engineer Manager.
 
-I craft, code and build open-source software and most of my open-source software is written in JavaScript and focused on React and Math / Algorithm.
+I craft, code and build open-source software and most of my open-source software is written in JavaScript, Java, Python and focused on React, Math/Algorithm, Blockchain, Machine Learning and AI.
 
 I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 
