@@ -48,7 +48,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Hey, I'm Bunlong
 
-I am an Open-Source Maintainer | Full Stack Software Engineer | Backend Engineer Manager | Technical Lead | Java Engineer | Python Engineer | Blockchain Engineer | Machine Learning Engineer | AI Researcher | System Architect | Mobile Engineer Manager.
+I am an Open-Source Maintainer | Full Stack Software Engineer | Backend Engineer Manager | Technical Lead | Java Engineer | Python Engineer | Blockchain Engineer | AI Researcher | System Architect | Mobile Engineer Manager.
 
 I craft, code and build open-source software and most of my open-source software is written in JavaScript, Java, Python and focused on React, Math / Algorithm, Blockchain, Machine Learning and AI.
 
