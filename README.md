@@ -62,6 +62,7 @@ I use Linux on my PC. I love 🚀 rockets 🌌 spaces.
 * Ruby + Rails = Ruby Ecosystem 💎
 * PHP + Laravel = PHP Ecosystem 👨‍💻
 * JavaScript ( Who can live without JavaScript? ) 🌍
+* Solidity = Smart Contract for Various Blockchain Platforms ❤️
 * React + Hook + Compiler = ❤️ ⚛️
 * Dart + Flutter = Hybrid Mobile App 📱
 * Java + Swift = Native Mobile App 📱
