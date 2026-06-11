@@ -10,7 +10,7 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Features
 
-🌐 [Algorithms for Kids](https://github.com/algorithmsforkids) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog) | 🌐 [The Open Source AI](https://github.com/theopensourceai) | 🌐 [Design Patterns for Kids](https://designpatternsforkids.github.io)
+🌐 [CSV AI](https://github.com/csvai) | 🌐 [ReactPatterns](https://reactpatterns.js.org/blog)
 
 ## Supercharging the React Ecosystem
 
