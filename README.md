@@ -18,10 +18,10 @@ Most of my open source software is written in Javascript and focused on React, D
 * [React Papaparse](https://github.com/Bunlong/react-papaparse) [![downloads](https://img.shields.io/npm/dt/react-papaparse.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/react-papaparse)
 * [Next QRCode](https://github.com/bunlong/next-qrcode) [![downloads](https://img.shields.io/npm/dt/next-qrcode.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/next-qrcode)
 * [Next Share](https://github.com/Bunlong/next-share) [![downloads](https://img.shields.io/npm/dt/next-share.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/next-share)
-* [Next Barcode](https://github.com/Bunlong/next-barcode)
-* [Next Timeago](https://github.com/Bunlong/next-timeago)
-* [React Screen Capture](https://github.com/Bunlong/react-screen-capture)
-* [Next reCAPTCHA](https://github.com/Bunlong/next-recaptcha)
+* [Next Barcode](https://github.com/Bunlong/next-barcode) [![downloads](https://img.shields.io/npm/dt/next-barcode.svg?label=TOTAL%20DOWNLOADS)](https://www.npmjs.com/package/next-barcode)
+<!-- * [Next Timeago](https://github.com/Bunlong/next-timeago) -->
+<!-- * [React Screen Capture](https://github.com/Bunlong/react-screen-capture) -->
+<!-- * [Next reCAPTCHA](https://github.com/Bunlong/next-recaptcha) -->
 
 <!--
 * [React XLS](https://github.com/Bunlong/react-xls)
@@ -36,15 +36,17 @@ Most of my open source software is written in Javascript and focused on React, D
 
 ## Supercharging the Svelte Ecosystem
 
-* [Create Svelte Library](https://github.com/Bunlong/create-svelte-library)
 * [Svelte CSV](https://github.com/Bunlong/svelte-csv)
 * [Svelte Barcode](https://github.com/Bunlong/svelte-barcode)
-* [Svelte Clock](https://github.com/Bunlong/svelte-clock)
+* [Create Svelte Library](https://github.com/Bunlong/create-svelte-library)
+<!-- * [Svelte Clock](https://github.com/Bunlong/svelte-clock) -->
 
+<!--
 ## Supercharging the JS Ecosystem
 
 * [numer.js](https://github.com/Bunlong/numer.js)
 * [strdash.js](https://github.com/Bunlong/strdash.js)
+-->
 
 ## Hey, I'm Bunlong
 
